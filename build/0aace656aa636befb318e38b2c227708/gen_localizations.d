@@ -1,1 +1,0 @@
- C:\\dev\\Praveen-SIH\\lib\\l10n\\app_localizations_en.dart C:\\dev\\Praveen-SIH\\lib\\l10n\\app_localizations_hi.dart C:\\dev\\Praveen-SIH\\lib\\l10n\\app_localizations.dart:  C:\\dev\\Praveen-SIH\\l10n.yaml C:\\dev\\Praveen-SIH\\lib\\l10n\\app_en.arb C:\\dev\\Praveen-SIH\\lib\\l10n\\app_hi.arb
