@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/dev/Praveen-SIH/build/windows/x64/_deps/sqlite3-subbuild/CMakeFiles/sqlite3-populate"
+		},
+		{
+			"file" : "C:/dev/Praveen-SIH/build/windows/x64/_deps/sqlite3-subbuild/CMakeFiles/bbbd8a804a88ab24dbc6fd80cd86b6f4/sqlite3-populate.rule"
+		},
+		{
+			"file" : "C:/dev/Praveen-SIH/build/windows/x64/_deps/sqlite3-subbuild/CMakeFiles/1ff51586992eb61967329ec3a20ade65/sqlite3-populate-complete.rule"
+		},
+		{
+			"file" : "C:/dev/Praveen-SIH/build/windows/x64/_deps/sqlite3-subbuild/CMakeFiles/69869a7a41f3bcfd40003efd3f68bd6f/sqlite3-populate-build.rule"
+		},
+		{
+			"file" : "C:/dev/Praveen-SIH/build/windows/x64/_deps/sqlite3-subbuild/CMakeFiles/69869a7a41f3bcfd40003efd3f68bd6f/sqlite3-populate-configure.rule"
+		},
+		{
+			"file" : "C:/dev/Praveen-SIH/build/windows/x64/_deps/sqlite3-subbuild/CMakeFiles/69869a7a41f3bcfd40003efd3f68bd6f/sqlite3-populate-download.rule"
+		},
+		{
+			"file" : "C:/dev/Praveen-SIH/build/windows/x64/_deps/sqlite3-subbuild/CMakeFiles/69869a7a41f3bcfd40003efd3f68bd6f/sqlite3-populate-install.rule"
+		},
+		{
+			"file" : "C:/dev/Praveen-SIH/build/windows/x64/_deps/sqlite3-subbuild/CMakeFiles/69869a7a41f3bcfd40003efd3f68bd6f/sqlite3-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/dev/Praveen-SIH/build/windows/x64/_deps/sqlite3-subbuild/CMakeFiles/69869a7a41f3bcfd40003efd3f68bd6f/sqlite3-populate-patch.rule"
+		},
+		{
+			"file" : "C:/dev/Praveen-SIH/build/windows/x64/_deps/sqlite3-subbuild/CMakeFiles/69869a7a41f3bcfd40003efd3f68bd6f/sqlite3-populate-test.rule"
+		},
+		{
+			"file" : "C:/dev/Praveen-SIH/build/windows/x64/_deps/sqlite3-subbuild/CMakeFiles/69869a7a41f3bcfd40003efd3f68bd6f/sqlite3-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"sqlite3-populate"
+		],
+		"name" : "sqlite3-populate"
+	}
+}
